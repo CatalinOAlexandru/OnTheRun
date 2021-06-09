@@ -5,7 +5,7 @@ This is part of a univeristy group project.
 ----------------------------------------------------------------------
 Designed for mobile used later ported to desktop. You can play with your keyboard arrows or mouse clicks here:
 
-https://catalinoalexandru.github.io/OnTheRun/
+https://catalinoalexandru.github.io/OnTheRun-Game/
 
 ------------------------------------------------------------------------
 
@@ -16,8 +16,8 @@ The username is saved localy in your browser cache.
 # Advanced Prototype Version
 An more initial idea of the game and a demo unit before optimisations can be see here:
 
-https://github.com/CatalinOAlexandru/ForestRunner
+https://github.com/CatalinOAlexandru/ForestRunner-Game
 
 And run on dekstop here:
 
-https://catalinoalexandru.github.io/ForestRunner/
+https://catalinoalexandru.github.io/ForestRunner-Game/
